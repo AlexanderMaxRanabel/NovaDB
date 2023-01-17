@@ -1,2 +1,2 @@
 # NovaDB
-A Feature-Less NoSQL Database Written in TypeScript
+A Feature-Less NoSQL Database Written in Go
